@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/3593/screenshots/11550937/media/5e17441dcabf71af8ba1e07b38d374fb.gif" width="100%" alt="AI 3D Header" style="border-radius: 12px;"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="120" alt="3D AI Agent Logo" />
 </div>
 
 <h1 align="center">
