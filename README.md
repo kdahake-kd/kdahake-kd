@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/E1I3Y0S_xJMAAAAC/digital-head.gif" width="100%" style="max-width: 850px; border-radius: 12px;" alt="Professional 3D AI Robot Face Sending Signals to Universe" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="3D Space AI Robot Coding" />
 </div>
 
 <h1 align="center">
