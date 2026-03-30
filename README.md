@@ -1,10 +1,12 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/3593/screenshots/11550937/media/5e17441dcabf71af8ba1e07b38d374fb.gif" width="100%" alt="AI 3D Header" style="border-radius: 12px;"/>
+</div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Kiran+Dahake+%F0%9F%91%8B;Backend+Developer+%7C+AI+Enthusiast;Django+%7C+FastAPI+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Kiran+Dahake+%F0%9F%91%8B;AI+%26+Backend+Engineer;Django+%7C+FastAPI+%7C+Starlette;NLP+%7C+LLMs+%7C+IndicBERT;Code+that+speaks%2C+Systems+that+scale." alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Backend Engineer | 🐍 Python Developer | 🤖 AI Integration Specialist | ☁️ Cloud-Native Builder</h3>
+<h3 align="center">🚀 Backend Engineer | 🤖 AI Integration & NLP Specialist | ☁️ Cloud-Native Builder</h3>
 
 <p align="center">
   <a href="mailto:mekirandahake@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -14,39 +16,39 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kdahake-kd&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kdahake-kd&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working at **MarkyIcs.AI** building AI-powered conversational systems
-- 🎯 Achieved **99.99% AI conversation accuracy** through advanced prompt engineering
-- 🌱 Learning **System Design, Microservices, and AI Agent Development**
-- 💬 Ask me about **Django, FastAPI, REST APIs, Redis, Celery, PostgreSQL**
-- 🧠 Passionate about building **scalable, high-performance backend systems**
-- 💡 Motto: *"Write code that speaks, build systems that scale"*
+- 🔭 Currently working at **MarkyIcs.AI** building large-scale, low-latency AI conversational systems.
+- 🎯 Spearheading NLP intent mapping with **IndicBERT** to bypass standard LLM processing layers.
+- 🌱 Deep-diving into **High-Concurrency Systems, Microservices, and custom STT/TTS models**.
+- 💬 Ask me about **FastAPI, Starlette, Redis, Celery, PostgreSQL, and NLP model tuning**.
+- 🧠 Passionate about achieving **real-time AI voice call latency** and cost optimizations.
+- 💡 Motto: *"Write code that speaks, build systems that scale."*
 - 📫 Reach me at **mekirandahake@gmail.com**
-- ⚡ Fun fact: **I automate everything (even my coffee breaks... almost!)**
+- ⚡ Fun fact: **I automate everything (even my audio processing pipelines!)**
 
 <br clear="right"/>
 
 ## 🛠️ Tech Arsenal
 
 <details open>
-<summary><b>🔥 Core Technologies</b></summary>
+<summary><b>🔥 Core Technologies & AI</b></summary>
 <br>
 
 | Category | Technologies |
 |----------|-------------|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Backend Frameworks** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Starlette](https://img.shields.io/badge/Starlette-000000?style=for-the-badge&logo=starlette&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
-| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
+| **Backend Frameworks** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Starlette](https://img.shields.io/badge/Starlette-000000?style=for-the-badge&logo=starlette&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  |
+| **AI / NLP Models** | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![NLP](https://img.shields.io/badge/IndicBERT-150458?style=for-the-badge) ![STT](https://img.shields.io/badge/Open_Source_STT-58a6ff?style=for-the-badge) |
+| **Databases & Cache** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
 | **Task Management** | ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white) |
-| **AI/ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| **Tools & Others** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+| **Tools & OS** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
 </details>
 
@@ -57,7 +59,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
@@ -65,23 +67,24 @@
 
 ## 💼 Professional Journey
 
-### 🔹 Backend Developer Intern @ **MarkyIcs.AI**
-`Oct 2025 – Present | Pune, India`
+### 🔹 AI & Backend Developer Intern @ **MarkyIcs.AI**
+`Oct 2024 – Present | Pune, India`
 
-- 🎯 **Improved AI conversation accuracy to 99.99%**, eliminating context drift and irrelevant responses
-- ⚡ **Boosted platform performance** by migrating entire calling system to Starlette with better concurrency
-- 🏗️ **Enabled scalable multi-tenant operations** supporting 7+ financial use cases through universal API model
-- 🔧 **Reduced system errors** by resolving critical async self-allocating issues and streamlining call flows
-- 🔄 **Enhanced reliability** with automated webhooks, retry mechanisms, and smart DB-driven scheduler
-- **Stack:** `Django` `FastAPI` `Starlette` `AI Agents` `Prompt Engineering` `REST API` `Redis` `PostgreSQL`
+- 💰 **LLM Cost Optimization:** Innovated a sophisticated NLP calling setup utilizing *Intent Mapping*, effectively predicting user responses to bypass expensive LLM inference layers.
+- 🤖 **Custom NLP Model Training:** Experimented with multiple Language Models and successfully fine-tuned **IndicBERT** for high-accuracy customer intent detection.
+- ⚡ **Latency Optimization & Speech Tech:** Overhauled the speech pipeline to reduce end-to-end latency; integrated and benchmarked various open-source **Speech-to-Text (STT)** models to achieve near instantaneous processing.
+- 🎯 **Conversational Accuracy:** Elevated platform conversational mapping to **99.99% reliability**, vastly reducing context drift and hallucinated responses.
+- 🚀 **High-Concurrency Refactoring:** Migrated the core calling infrastructure to **Starlette**, tripling concurrent connection capacity and resolving crucial async self-allocating thread blocks.
+- 🏗️ **Multi-Tenant Operations:** Bootstrapped API pipelines serving up to 7+ diverse financial use-cases on a centralized database architecture.
+- **Stack:** `FastAPI` `Starlette` `Django` `IndicBERT` `NLP` `STT` `Redis` `PostgreSQL` `Celery`
 
 ### 🔹 Backend Developer Intern @ **Stackie Software Solution**
-`Jan 2025 – Aug 2025`
+`Jan 2024 – Aug 2024`
 
-- 🚀 **Enhanced performance by 37%** through optimization of React and Django web applications
-- 🔌 **Designed and integrated RESTful APIs**, improving data access and application functionality
-- 🤝 **Collaborated with Frontend Team** to ensure seamless API integration, reducing bugs by 25%
-- 🔐 **Implemented authentication & authorization** mechanisms using Django, enhancing security
+- 🚀 **Enhanced performance by 37%** through optimization of React and Django web applications.
+- 🔌 **Designed and integrated RESTful APIs**, improving data access and application functionality.
+- 🤝 **Collaborated with Frontend Team** to ensure seamless API integration, reducing bugs by 25%.
+- 🔐 **Implemented authentication & authorization** mechanisms using Django, enhancing security.
 - **Stack:** `Django` `REST APIs` `PostgreSQL` `MySQL` `Docker` `Redis` `Celery`
 
 ## 🚀 Featured Projects
@@ -92,50 +95,37 @@
 
 **AI-powered PR review automation tool integrating GitHub APIs and Deep-Seek AI (LLM)**
 
-- ✨ **Analyzes pull requests** for code style, formatting issues, potential bugs, and performance improvements
-- ⚡ **Implemented asynchronous task processing** using FastAPI, Django, Celery, and Redis
-- 📈 **Reduced mentor review time by 70%** through AI-driven code insights and automated feedback
-- ⏰ **24-hour result caching** for improved efficiency
-- **Tech:** `FastAPI` `Django` `Redis` `Celery` `Deep-Seek AI` `REST API` `GitHub API`
+- ✨ **Analyzes pull requests** for code style, formatting issues, potential bugs, and possible latency pitfalls.
+- ⚡ **Implemented asynchronous task processing** using FastAPI, Django, Celery, and Redis.
+- 📈 **Reduced mentor review time by 70%** through AI-driven code insights and granular feedback loops.
+- ⏰ **24-hour result caching** for improved pipeline efficiency.
+- **Tech:** `FastAPI` `Django` `Redis` `Celery` `Deep-Seek AI` `GitHub API`
 
 [🔗 View Project](#)
 
 </details>
 
 <details>
-<summary><b>📚 Library Seat Booking System</b></summary>
+<summary><b>📚 Distributed Library Seat Booking System</b></summary>
 <br>
 
-**Full-stack web application for managing library seat reservations**
+**Full-stack application utilizing Real-Time web-sockets for managing reservations**
 
-- 👨‍💼 **Admin Dashboard:** Managed seat allocation, monitored bookings, and generated usage reports
-- 👤 **User Dashboard:** Check seat availability, book, update, or cancel reservations
-- 🔄 **Real-time seat tracking** with responsive design and seamless booking workflow
-- 📊 **PostgreSQL database** for efficient data management
-- **Tech:** `HTML` `CSS` `React` `Python` `Django` `PostgreSQL` `Celery` `Redis`
+- 👨‍💼 **Admin Dashboard:** Allocation logic, booking integrity monitoring, usage reports.
+- 👤 **User Dashboard:** Multi-user concurrency resolving capability to book, update, or cancel reservations smoothly.
+- 📊 **Architecture:** Postgres backend running async DB operations wrapped with Celery cache syncing. 
+- **Tech:** `React` `Python` `Django` `PostgreSQL` `Celery` `Redis`
 
 [🔗 View Project](#)
 
 </details>
 
-<details>
-<summary><b>🛒 E-Commerce Platform for Jaggery</b></summary>
-<br>
+## 🌟 Key Highlights
 
-**Custom e-commerce solution for traditional jaggery products**
-
-- 🛍️ Built scalable e-commerce backend with Django
-- 💳 Integrated payment gateways and order management
-- 📦 Implemented inventory tracking and real-time updates
-- **Tech:** `Django` `PostgreSQL` `REST API`
-
-</details>
-
-## 📜 Certifications
-
-- 🎓 **IBM Backend Developer Professional** - IBM via Coursera (6-month course)
-- 🎓 **Backend Development in Django** - LinkedIn Learning
-- 🎓 **Web Development in Django** - Coding Blocks (6-month course)
+- ✅ **Cost Savings:** Replaced costly generic LLM prompts with targeted IndicBERT intent-map caching.
+- ✅ **Ultra-Low Latency:** Optimized open-source STT implementations to slash voice conversational delays.
+- ✅ **99.99% AI Accuracy:** Solved intent drifting and arbitrary call disconnections natively in production.
+- ✅ **High Concurrency:** Migrated heavily bound Django processes to Starlette-native asynchronous operations.
 
 ## 🎓 Education
 
@@ -151,53 +141,36 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kdahake-kd&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff9500&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdahake-kd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=kdahake-kd&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58a6ff&line=1f6feb&point=58a6ff" alt="Contribution Graph" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kdahake-kd&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
 ## 💡 What I Bring to the Table
 
 ```python
 class KiranDahake:
     def __init__(self):
-        self.role = "Backend Developer"
-        self.location = "Pune, India"
-        self.education = "B.E. in IT (CGPA: 8.9)"
-        self.languages = ["Python", "Java", "SQL"]
+        self.role = "AI & Backend Engineer"
         self.specialties = [
-            "Building scalable REST APIs",
-            "AI Integration & Prompt Engineering",
-            "Asynchronous task processing",
-            "Database optimization",
-            "Microservices architecture"
+            "Low-Latency API Development",
+            "Custom NLP & STT Pipelines",
+            "LLM Cost Optimization Strategies",
+            "High-Concurrency Async Python",
+            "Microservices Architecture"
         ]
+        self.favorite_tools = ["FastAPI", "Starlette", "IndicBERT", "Redis"]
     
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+    def process_request(self, challenge):
+        if challenge == "High Latency":
+            return "Deploying Async Pipelines + Embedded STT"
+        elif challenge == "Sky-rocketing LLM Costs":
+            return "Implementing Intent Mapping + IndicBERT"
+        return "Building robust scalable backend!"
 
 me = KiranDahake()
-me.say_hi()
+print(me.process_request("Sky-rocketing LLM Costs"))
 ```
-
-## 🌟 Key Highlights
-
-- ✅ **99.99% AI accuracy** in production systems
-- ✅ **37% performance improvement** in web applications
-- ✅ **70% reduction** in code review time through AI automation
-- ✅ **25% bug reduction** through seamless API integration
-- ✅ **7+ financial use cases** supported in multi-tenant architecture
 
 ## 🤝 Let's Connect!
 
 <p align="center">
-  💼 Open for exciting backend development opportunities and collaborations!<br>
+  💼 Open for exciting AI and backend development opportunities!<br>
   📬 <b>mekirandahake@gmail.com</b><br>
   🔗 <a href="https://www.linkedin.com/in/kiran-dahake/">LinkedIn</a> | 
   🐙 <a href="https://github.com/kdahake-kd">GitHub</a> | 
@@ -206,11 +179,4 @@ me.say_hi()
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
----
-
-<p align="center">
-  <i>⭐ If you like what you see, feel free to star some repositories!</i><br>
-  <i>💬 Always happy to discuss Django, FastAPI, System Design, or AI integration!</i>
 </p>
