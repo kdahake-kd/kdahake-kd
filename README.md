@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="100" alt="3D AI Agent" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Satellite%20Antenna.png" width="100" alt="Signals" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" width="100" alt="Planets" />
+  <img src="https://media.tenor.com/E1I3Y0S_xJMAAAAC/digital-head.gif" width="100%" style="max-width: 850px; border-radius: 12px;" alt="Professional 3D AI Robot Face Sending Signals to Universe" />
 </div>
 
 <h1 align="center">
